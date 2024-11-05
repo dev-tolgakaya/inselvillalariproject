@@ -16,6 +16,7 @@ const AgenaActivities = () => {
         fullPath={[
           { id: 1, name: "Anasayfa", url: "/" },
           { id: 2, name: "İletişim", url: "/contact" },
+          
         ]}
         image="/assets/img/slid/villasCoverImg/agena.jpeg"
       />
